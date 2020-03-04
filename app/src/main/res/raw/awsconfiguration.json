@@ -1,0 +1,17 @@
+{
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "ap-southeast-1:1xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx",
+        "Region": "ap-southeast-1"
+      }
+    }
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "PoolId": "ap-southeast-1_xxxxxxxx",
+      "AppClientId": "xxxxxxxxxxxxxxxxxxxxxx",
+      "Region": "ap-southeast-1"
+    }
+  }
+}
